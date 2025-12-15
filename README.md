@@ -42,7 +42,6 @@ MerlinArch is an Arch Linux–based operating system I am developing that combin
 - Test generated ISOs in a VM (QEMU/VirtualBox) before using on real hardware.
 
 **License & Contact**
-- Add a `LICENSE` file to the project root to declare licensing (e.g., MIT, GPL).
 - For questions or collaboration, open an issue or add contact details to this file.
 
 ---
